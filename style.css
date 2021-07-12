@@ -1,0 +1,11 @@
+span { color: rgb(162, 0, 255);
+ font-size: 16px; } 
+ li img { width: 200px; border-radius: 20px; } 
+ .division { background: #e9c2ff; padding: 30px; border-radius: 20px; width: 50%;
+ display: inline-block;
+ box-shadow: 5px 5px 18px grey;}
+  b { color: purple; }
+ .result_obj { 
+ text-align: center;
+ background: #f7e7ff;
+ border-radius: 20px; padding: 10px; }
